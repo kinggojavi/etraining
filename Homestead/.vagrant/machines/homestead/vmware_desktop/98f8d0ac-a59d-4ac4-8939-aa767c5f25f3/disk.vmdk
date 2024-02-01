@@ -1,0 +1,53 @@
+# Disk DescriptorFile
+version=1
+encoding="UTF-8"
+CID=f2b63638
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 33554432 SPARSE "disk-s001.vmdk"
+RW 33554432 SPARSE "disk-s002.vmdk"
+RW 33554432 SPARSE "disk-s003.vmdk"
+RW 33554432 SPARSE "disk-s004.vmdk"
+RW 33554432 SPARSE "disk-s005.vmdk"
+RW 33554432 SPARSE "disk-s006.vmdk"
+RW 33554432 SPARSE "disk-s007.vmdk"
+RW 33554432 SPARSE "disk-s008.vmdk"
+RW 33554432 SPARSE "disk-s009.vmdk"
+RW 33554432 SPARSE "disk-s010.vmdk"
+RW 33554432 SPARSE "disk-s011.vmdk"
+RW 33554432 SPARSE "disk-s012.vmdk"
+RW 33554432 SPARSE "disk-s013.vmdk"
+RW 33554432 SPARSE "disk-s014.vmdk"
+RW 33554432 SPARSE "disk-s015.vmdk"
+RW 33554432 SPARSE "disk-s016.vmdk"
+RW 33554432 SPARSE "disk-s017.vmdk"
+RW 33554432 SPARSE "disk-s018.vmdk"
+RW 33554432 SPARSE "disk-s019.vmdk"
+RW 33554432 SPARSE "disk-s020.vmdk"
+RW 33554432 SPARSE "disk-s021.vmdk"
+RW 33554432 SPARSE "disk-s022.vmdk"
+RW 33554432 SPARSE "disk-s023.vmdk"
+RW 33554432 SPARSE "disk-s024.vmdk"
+RW 33554432 SPARSE "disk-s025.vmdk"
+RW 33554432 SPARSE "disk-s026.vmdk"
+RW 33554432 SPARSE "disk-s027.vmdk"
+RW 33554432 SPARSE "disk-s028.vmdk"
+RW 33554432 SPARSE "disk-s029.vmdk"
+RW 33554432 SPARSE "disk-s030.vmdk"
+RW 33554432 SPARSE "disk-s031.vmdk"
+RW 33554432 SPARSE "disk-s032.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "66837"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "90521729fdec2e899b5864e6f2b63638"
+ddb.toolsInstallType = "0"
+ddb.toolsVersion = "2147483647"
+ddb.uuid = "60 00 C2 91 45 bd 77 1f-09 06 85 0c 2b 08 5f 04"
+ddb.virtualHWVersion = "13"

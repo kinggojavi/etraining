@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 49 46 a3 a5 c5 94 19-cf f5 ce 9d e8 46 64 e6</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">ubuntu-20.04-amd64.vmx</vmxPathName></VM><tools-install-info><installError>0</installError><updateCounter>1</updateCounter></tools-install-info></Foundry>
